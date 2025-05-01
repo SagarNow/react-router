@@ -7,9 +7,9 @@ const Home = () => {
     <div className='flex h-70 -mb-30 w-full justify-center items-center'>
     <div className=' gap-8 flex' >
 
-    <Link to="/"className='px-4 py-2 border-2 border-2 bg-slate-700 hover:bg-purple-500 hover:text-white rounded-md shadow-md'>Home</Link>
-    <Link to="/About" className='px-4 py-2 border-2 border-2 bg-slate-700 hover:bg-purple-500 hover:text-white rounded-md shadow-md'>About</Link>
-    <Link to="/Contact" className='px-4 py-2 border-2 border-2 bg-slate-700 hover:bg-purple-500 hover:text-white rounded-md shadow-md'>Contact</Link>
+    <Link to="/"className='px-4 py-2 border-2 border-2 bg-slate-700 hover:bg-purple-500 hover:text-yellow-500 rounded-md  shadow-md'>Home</Link>
+    <Link to="/About" className='px-4 py-2 border-2 border-2 bg-slate-700 hover:bg-purple-500  hover:text-yellow-500 rounded-md shadow-md'>About</Link>
+    <Link to="/Contact" className='px-4 py-2 border-2 border-2 bg-slate-700 hover:bg-purple-500  hover:text-yellow-500 rounded-md shadow-md'>Contact</Link>
     
 </div>
 </div>
